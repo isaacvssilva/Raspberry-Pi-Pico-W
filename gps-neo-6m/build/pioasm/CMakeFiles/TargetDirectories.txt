@@ -1,0 +1,3 @@
+/home/isaac/pico/Projetos/gps/build/pioasm/CMakeFiles/pioasm.dir
+/home/isaac/pico/Projetos/gps/build/pioasm/CMakeFiles/edit_cache.dir
+/home/isaac/pico/Projetos/gps/build/pioasm/CMakeFiles/rebuild_cache.dir

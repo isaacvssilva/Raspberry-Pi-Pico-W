@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "uart.h": "c",
+        "stdlib.h": "c",
+        "cyw43_arch.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "timer.h": "c"
+    }
+}
